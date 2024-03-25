@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @abdharis12
-- 👀 I’m interested in React and Laravel blade developer
-- 🌱 I’m currently and always learning about React and Laravel
-- 💞️ I’m looking to collaborate on React and Laravel blade developer
+- 👋 Hi, I’m Abd Haris
+- 👀 I’m interested in Laravel, Livewire, ReactJS and NextJS
+- 🌱 I’m currently and always learning about Laravel and ReactJS
+- 💞️ I’m looking to collaborate on Laravel and ReactJS
 - 📫 How to reach me? Contact me via whatsApp 081341591267
 
 <!---
